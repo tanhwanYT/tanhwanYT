@@ -21,4 +21,4 @@
 ---
 
 ### 📈 GitHub Stats
-![Tanhwan Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Tanhwan Stats](https://github-readme-stats.vercel.app/api?username=Tanhwan&show_icons=true&theme=radical)
