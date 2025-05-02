@@ -1,4 +1,24 @@
+<h1 align="center">Hi 👋, I'm [Tanhwan]</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Unity+Developer;Game+Designer;Always+Learning!" />
+</p>
 
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+
+- 🌱 I’m currently learning **Photon Multiplayer, FMOD, Shader Graph**
+- 👯 I’m looking to collaborate on **open source Unity tools**
+- 💬 Ask me about **Unity, C#, game design**
+- 📫 How to reach me: [qkrxoghks1209@gmail.com]
+
+---
+
+### 🛠️ Languages and Tools:
+<p>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/FMOD-000000?style=for-the-badge&logo=fmod&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
