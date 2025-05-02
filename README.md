@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Tanhwan]</h1>
+<h1 align="center">안녕하세요! 개발자 탄환입니다.</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Unity+Developer;Game+Designer;Always+Learning!" />
 </p>
