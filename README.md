@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Photon Multiplayer, FMOD, Shader Graph**
 - 👯 I’m looking to collaborate on **open source Unity tools**
 - 💬 Ask me about **Unity, C#, game design**
-- 📫 How to reach me: [qkrxoghks1209@gmail.com]
+- 📫 How to reach me: [pkrxoghks1209@gmail.com]
 
 ---
 
